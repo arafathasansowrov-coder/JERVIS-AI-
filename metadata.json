@@ -1,0 +1,8 @@
+{
+  "name": "Jervis",
+  "description": "An all-in-one AI assistant powered by Gemini. Jervis can chat, generate images and videos, analyze content, access real-time information from Google, and even hold a real-time voice conversation.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
